@@ -1,6 +1,5 @@
 https://api.whatsapp.com/send/?phone=12368015200&text&app_absent=0
 https://api.whatsapp.com/send/?phone=17787280266&text&app_absent=0
-https://api.whatsapp.com/send/?phone=17782009973&text&app_absent=0
 https://api.whatsapp.com/send/?phone=15793004502&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447393669112&text&app_absent=0
 https://api.whatsapp.com/send/?phone=201225340989&text&app_absent=0
