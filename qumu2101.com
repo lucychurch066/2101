@@ -1,15 +1,13 @@
-https://api.whatsapp.com/send/?phone=15063156227&text&app_absent=0
+https://api.whatsapp.com/send/?phone=447746832770&text&app_absent=0
+https://api.whatsapp.com/send/?phone=447746823721&text&app_absent=0
+https://api.whatsapp.com/send/?phone=18253607835&text&app_absent=0
+https://api.whatsapp.com/send/?phone=447746823592&text&app_absent=0
+https://api.whatsapp.com/send/?phone=447742639881&text&app_absent=0
+https://api.whatsapp.com/send/?phone=12492020505&text&app_absent=0
+https://api.whatsapp.com/send/?phone=12492021817&text&app_absent=0
+https://api.whatsapp.com/send/?phone=12368022827&text&app_absent=0
 https://api.whatsapp.com/send/?phone=14388397855&text&app_absent=0
-https://api.whatsapp.com/send/?phone=447719446531&text&app_absent=0
-https://api.whatsapp.com/send/?phone=447719406738&text&app_absent=0
-https://api.whatsapp.com/send/?phone=447717192879&text&app_absent=0
-https://api.whatsapp.com/send/?phone=447717023047&text&app_absent=0
-https://api.whatsapp.com/send/?phone=212620935831&text&app_absent=0
-https://api.whatsapp.com/send/?phone=15878545070&text&app_absent=0
-https://api.whatsapp.com/send/?phone=15814998253&text&app_absent=0
-https://api.whatsapp.com/send/?phone=15878545070&text&app_absent=0
-https://api.whatsapp.com/send/?phone=447729811624&text&app_absent=0
-https://api.whatsapp.com/send/?phone=447742609823&text&app_absent=0
-https://api.whatsapp.com/send/?phone=447742611409&text&app_absent=0
-https://api.whatsapp.com/send/?phone=14314428633&text&app_absent=0
-https://api.whatsapp.com/send/?phone=447724569799&text&app_absent=0
+https://api.whatsapp.com/send/?phone=447722078589&text&app_absent=0
+https://api.whatsapp.com/send/?phone=15794015261&text&app_absent=0
+https://api.whatsapp.com/send/?phone=18253607653&text&app_absent=0
+https://api.whatsapp.com/send/?phone=18253601814 &text&app_absent=0
