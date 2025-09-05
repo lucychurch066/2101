@@ -12,4 +12,4 @@ https://api.whatsapp.com/send/?phone=14314426880&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447716519337&amp;text&amp;app_absent=0
 https://api.whatsapp.com/send/?phone=447716518099&amp;text&amp;app_absent=0
 
-https://api.whatsapp.com/send/?phone=212620935831&amp;text&amp;app_absent=0
+
