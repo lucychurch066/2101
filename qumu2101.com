@@ -13,3 +13,8 @@ https://api.whatsapp.com/send/?phone=447466229263&text&app_absent=0
 https://api.whatsapp.com/send/?phone=212783944041&text&app_absent=0
 https://api.whatsapp.com/send/?phone=6283862253281&text&app_absent=0
 https://api.whatsapp.com/send/?phone=62858217364909&text&app_absent=0
+https://api.whatsapp.com/send/?phone=447716518099&amp;text&amp;app_absent=0
+https://api.whatsapp.com/send/?phone=447716519337&amp;text&amp;app_absent=0
+https://api.whatsapp.com/send/?phone=447746832770&amp;text&amp;app_absent=0
+https://api.whatsapp.com/send/?phone=447746823592&amp;text&amp;app_absent=0
+https://api.whatsapp.com/send/?phone=447742639881&amp;text&amp;app_absent=0
