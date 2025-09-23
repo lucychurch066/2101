@@ -7,4 +7,3 @@ https://api.whatsapp.com/send/?phone=447746823592&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447742609823&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447861839466&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447861832990&text&app_absent=0
-https://api.whatsapp.com/send/?phone=12362334233&text&app_absent=0
