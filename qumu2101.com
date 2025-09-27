@@ -8,4 +8,4 @@ https://api.whatsapp.com/send/?phone=447861762457&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447397248621&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447380589807&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447427052395&text&app_absent=0
-https://api.whatsapp.com/send/?phone=447886620387&text&app_absent=0
+
