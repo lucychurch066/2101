@@ -4,7 +4,6 @@ https://api.whatsapp.com/send/?phone=67571445260&text&app_absent=0
 https://api.whatsapp.com/send/?phone=67571093553&text&app_absent=0
 https://api.whatsapp.com/send/?phone=67571445401&text&app_absent=0
 https://api.whatsapp.com/send/?phone=67571641415&text&app_absent=0
-https://api.whatsapp.com/send/?phone=67572401238&text&app_absent=0
 https://api.whatsapp.com/send/?phone=67572530214&text&app_absent=0
 https://api.whatsapp.com/send/?phone=67572676392&text&app_absent=0
 https://api.whatsapp.com/send/?phone=67572337504&text&app_absent=0
